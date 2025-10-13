@@ -27,4 +27,3 @@ if Remainder == 1:
     print(f"{num} is a odd number")
 elif Remainder == 0:
     print(f"{num} is an even number")
-
